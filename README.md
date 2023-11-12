@@ -37,6 +37,8 @@ Por cuestion de tiempo se dividió el trabajo para que revisar las funciones de 
 
 -Pruebas de API en POSTMAN.
 
+-Docuemntación de errores en JIRA.
+
 
 
 # Enlace Drive con listas de comprobación:
