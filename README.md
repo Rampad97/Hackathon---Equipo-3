@@ -27,7 +27,7 @@ Se identinficó el objetivo de cada caso, así como la función de cada uno, par
 Para cada caso se hizo una lista de comprobación con los resultados de prueba, las listas de comprobación contiene pruebas positivas y negativas.
 Se aplicó técnica de clases de equivalencia y valores límites.
 
-Por cuestion de tiempo se dividió el trabajo para que revisar las funciones de cada caso.
+Por cuestion de tiempo se dividió el trabajo para revisar las funciones de cada caso.
 
 ## Docuemtación
 
