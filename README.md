@@ -29,6 +29,8 @@ Se aplicó técnica de clases de equivalencia y valores límites.
 
 Por cuestion de tiempo se dividió el trabajo para revisar las funciones de cada caso.
 
+El objetivo es probar la mayoría de las funciones de cada caso para corroborar que se debe mejorar y/o agregar para que los usuarios la puedan utilizarlas con la menor cantidad de errores posible.
+
 ## Docuemtación
 
 -Lista de comprobación.
