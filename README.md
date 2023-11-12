@@ -42,6 +42,7 @@ Por cuestion de tiempo se dividió el trabajo para que revisar las funciones de 
 
 
 # Enlace Drive con listas de comprobación:
+Aquí mismo se encuentran los enlaces de errores docuemntados en JIRA.
 https://drive.google.com/drive/folders/1TWHAOrS4mp1ncdOI1ghWhP8WlIj-a1YL?usp=sharing
 
 # Enlace presentación Miro:
