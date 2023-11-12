@@ -14,11 +14,11 @@
 # Objetivo del evento
 Aplicar nuestros conociemintos y habilidades como QA Engineer para realizar exploratoy y black box testing de los siguientes repositorios compartidos:
 
-**Fake API** → https://fakeapi.platzi.com/
+**Fake API** → https://fakeapi.platzi.com/ - Pruebas de API en POSTMAN
 
-**Bugbank →** https://github.com/jhonatasmatos/bugbank-ui
+**Bugbank →** https://github.com/jhonatasmatos/bugbank-ui - Pruebas manuales de lógica y diseño
 
-**Restful Booker →** https://github.com/mwinteringham/restful-booker
+**Restful Booker →** https://github.com/mwinteringham/restful-booker - Pruebas de API en POSTMAN
 
 De forma en que se pudiran llevar a cabo dataset analysus y visualización, ejecución de pruebas, reporte de bugs y resentación de resultados.
 
@@ -27,7 +27,15 @@ Se identinficó el objetivo de cada caso, así como la función de cada uno, par
 Para cada caso se hizo una lista de comprobación con los resultados de prueba, las listas de comprobación contiene pruebas positivas y negativas.
 Se aplicó técnica de clases de equivalencia y valores límites.
 
-Por cuestion de tiempo se dividió el trabajo para que 
+Por cuestion de tiempo se dividió el trabajo para que revisar las funciones de cada caso.
+
+## Docuemtación
+
+-Lista de comprobación.
+
+-Clases de equivalencia y valores límite.
+
+-Pruebas de API en POSTMAN.
 
 
 
